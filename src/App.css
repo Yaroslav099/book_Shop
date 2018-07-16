@@ -1,0 +1,49 @@
+#root {
+    width : 85%;
+    padding-top : 20px;
+}
+
+Body {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    position: relative;
+}
+
+.cart {
+    position: absolute;
+    right: -2px;
+    bottom : -300px;
+    width : 400px;
+    height: 300px;
+    background-color: white;
+    z-index: 10;
+    overflow: auto;
+    border: 1px solid rgb(222,222,222);
+}
+
+.hidden {
+    display : none;
+    color : white;
+}
+
+.width75 {
+ width : 75%;
+ border-bottom: 2px solid rgb(222,222,222);
+}
+
+.width25 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width : 25%;
+    border-bottom: 2px solid rgb(222,222,222);
+   }
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,45 @@
+[
+{
+ "id" : "0",
+ "title" : "Таинственый остров",
+ "author" : "Жюль Верн",
+ "image" : "https://be2.aldebaran.ru/static/bookimages/05/80/96/05809645.bin.dir/05809645.cover_250.jpg",
+ "price" : "120"
+},
+{
+ "id" : "1",
+ "title" : "Приключения Мурзилки",
+ "author" : "Палмер Кокс",
+ "image" : "https://be2.aldebaran.ru/static/bookimages/20/13/56/20135628.bin.dir/20135628.cover_250.jpg",
+ "price" : "265"
+},
+{
+ "id" : "2",
+ "title" : "Холодный дом",
+ "author" : "Чарльз Диккенс",
+ "image" : "https://be2.aldebaran.ru/static/bookimages/24/78/14/24781405.bin.dir/24781405.cover_250.jpg",
+ "price" : "300"
+},
+{
+ "id" : "3",
+ "title" : "Дамское счастье",
+ "author" : "Эмиль Золя",
+ "image" : "https://be2.aldebaran.ru/static/bookimages/21/22/70/21227031.bin.dir/21227031.cover_250.jpg",
+ "price" : "900"
+},
+{
+"id" : "4",
+"title" : "Земля лишних побег",
+"author" : "Андрей Круз",
+"image" : "https://be2.aldebaran.ru/static/bookimages/31/20/97/31209733.bin.dir/31209733.cover_250.jpg",
+"price" : "690"
+},
+{
+"id" : "5",
+"title" : "Сибирский Вояж",
+"author" : "Владимир М'ясоедов",
+"image" : "https://be2.aldebaran.ru/static/bookimages/34/85/48/34854879.bin.dir/34854879.cover_250.jpg",
+"price" : "550"
+}
+
+]
